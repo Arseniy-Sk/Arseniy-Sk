@@ -59,7 +59,7 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 <p align="center">
   <!-- Замените # на свои реальные ссылки -->
-  <a href="#">
+  <a href="https://t.me/TheUndergound1203">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -129,6 +129,6 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 <p align="center">
   <!-- Замените # на свои реальные ссылки -->
-  <a href="#">
+  <a href="https://t.me/TheUndergound1203">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
